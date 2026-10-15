@@ -1,0 +1,5 @@
+.git
+bbfs
+*.o
+*.log
+example/mountdir
